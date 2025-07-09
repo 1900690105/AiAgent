@@ -59,7 +59,7 @@ This project demonstrates how to build a basic AI Agent in [n8n](https://n8n.io/
 
 ## 📸 Screenshot
 
-![Workflow Screenshot](./your-screenshot.png)
+![Workflow Screenshot](https://github.com/1900690105/AiAgent/blob/main/Screenshot%202025-07-09%20023632.png)
 
 > Example of a working AI Agent workflow that calculates the square of a number using Gemini and n8n.
 
