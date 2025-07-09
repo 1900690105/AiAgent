@@ -78,7 +78,7 @@ Built with ❤️ using:
 
 For suggestions, feedback, or collaboration opportunities:  
 📧 **your.email@example.com**  
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/nikhilkandhare/)
 
 ---
 
